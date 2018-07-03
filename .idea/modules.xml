@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fruitMachine.iml" filepath="$PROJECT_DIR$/.idea/modules/fruitMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fruitMachine_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fruitMachine_main.iml" group="fruitMachine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fruitMachine_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fruitMachine_test.iml" group="fruitMachine" />
+    </modules>
+  </component>
+</project>
